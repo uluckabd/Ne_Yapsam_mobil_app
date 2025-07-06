@@ -1,5 +1,5 @@
 # Ne_Yapsam_mobil_app
-Boş zamanlar aktivite öneren Flutter uygulaması.
+Boş zamanlar için aktivite öneren Flutter uygulaması.
 NeYapsam?, boş zamanlarında "şimdi ne yapsam?" diye düşünenlere ilham veren bir öneri uygulamasıdır. Flutter kullanılarak geliştirilmiştir. Uygulama, sade tasarımı ve pratik işlevleriyle dikkat çeker.
 Uygulamada Flutter’dan Şunlar Kullanıldı 🛠
 StatefulWidget ve StatelessWidget yapıları
